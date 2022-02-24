@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.25.216.126/repository/maven-snapshots/</url>
+		    <url>http://52.65.198.59/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.25.216.126/repository/sample-releases/</url>
+		    <url>http://52.65.198.59/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
